@@ -10,7 +10,7 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/your-username/your-repo.git'
+                git 'https://github.com/yashjadhao123/yash-docker-repo.git'
             }
         }
 
